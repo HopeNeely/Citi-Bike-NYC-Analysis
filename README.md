@@ -11,7 +11,7 @@ NYC has one of the largest bike sharing programs in the world. Citibike, provide
 
 [https://www.nydailynews.com/new-york/ny-citi-bike-manhattan-bike-sharing-20210407-fxt2jsgokfhkbldon4tvbkte7u-story.html](https://www.nydailynews.com/new-york/ny-citi-bike-manhattan-bike-sharing-20210407-fxt2jsgokfhkbldon4tvbkte7u-story.html)
 
-[https://nyc.streetsblog.org/2021/03/25/exclusive-bill-would-allow-public-to-weigh-in-on-citi-bike-fare-hikes/#:~:text=The%20bike%2Dshare%20system%20has,(a%20six%20percent%20increase)](https://nyc.streetsblog.org/2021/03/25/exclusive-bill-would-allow-public-to-weigh-in-on-citi-bike-fare-hikes/#:~:text=The%20bike%2Dshare%20system%20has,(a%20six%20percent%20increase)
+[https://nyc.streetsblog.org/2021/03/25/exclusive-bill-would-allow-public-to-weigh-in-on-citi-bike-fare-hikes/#:~:text=The%20bike%2Dshare%20system%20has,(a%20six%20percent%20increase)](https://nyc.streetsblog.org/2021/03/25/exclusive-bill-would-allow-public-to-weigh-in-on-citi-bike-fare-hikes/#:~:text=The%20bike%2Dshare%20system%20has,(a%20six%20percent%20increase))
 
 ## Analysis
 
