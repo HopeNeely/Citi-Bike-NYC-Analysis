@@ -4,14 +4,14 @@ NYC has one of the largest bike sharing programs in the world. Citibike, provide
 
 ## Sources: 
 ### Data:
-https://www.citibikenyc.com/system-data
+[https://www.citibikenyc.com/system-data](https://www.citibikenyc.com/system-data)
 
 ### News:
-https://www.citibikenyc.com/blog/major-citi-bike-expansion-map-revealed#:~:text=City%20releases%20boundaries%20of%20Citi,Manhattan%20in%20the%20next%20year.
+[https://www.citibikenyc.com/blog/major-citi-bike-expansion-map-revealed#:~:text=City%20releases%20boundaries%20of%20Citi,Manhattan%20in%20the%20next%20year.](https://www.citibikenyc.com/blog/major-citi-bike-expansion-map-revealed#:~:text=City%20releases%20boundaries%20of%20Citi,Manhattan%20in%20the%20next%20year.)
 
-https://www.nydailynews.com/new-york/ny-citi-bike-manhattan-bike-sharing-20210407-fxt2jsgokfhkbldon4tvbkte7u-story.html 
+[https://www.nydailynews.com/new-york/ny-citi-bike-manhattan-bike-sharing-20210407-fxt2jsgokfhkbldon4tvbkte7u-story.html](https://www.nydailynews.com/new-york/ny-citi-bike-manhattan-bike-sharing-20210407-fxt2jsgokfhkbldon4tvbkte7u-story.html)
 
-https://nyc.streetsblog.org/2021/03/25/exclusive-bill-would-allow-public-to-weigh-in-on-citi-bike-fare-hikes/#:~:text=The%20bike%2Dshare%20system%20has,(a%20six%20percent%20increase)
+[https://nyc.streetsblog.org/2021/03/25/exclusive-bill-would-allow-public-to-weigh-in-on-citi-bike-fare-hikes/#:~:text=The%20bike%2Dshare%20system%20has,(a%20six%20percent%20increase)](https://nyc.streetsblog.org/2021/03/25/exclusive-bill-would-allow-public-to-weigh-in-on-citi-bike-fare-hikes/#:~:text=The%20bike%2Dshare%20system%20has,(a%20six%20percent%20increase)
 
 ## Analysis
 
